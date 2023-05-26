@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Mohammad Ali Zare</h1>
+
+
 - 👋 Hi, I’m @AliZare0101
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
