@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=wave&height=331&color=gradient&text=Input%20text&textBg=false&fontAlign=50&animation=scaleIn&descAlignY=32&descAlign=23&reversal=false
 <h1 align="center">👋 Hi, I'm Mohammad Ali Zare</h1>
 
 <p align="center">
